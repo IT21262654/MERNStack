@@ -1,0 +1,26 @@
+# Dependency directories
+node_modules/
+
+# Optional: Logs and other generated files
+logs/
+*.log
+npm-debug.log*
+
+# Optional: Environment variables file
+.env
+
+# Optional: Mac OS and Windows files
+.DS_Store
+Thumbs.db
+
+# Optional: Visual Studio Code settings
+.vscode/
+
+# Optional: Editor configuration
+*.editorconfig
+
+# Optional: Operating System files
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
